@@ -1,1 +1,6 @@
-# Credit_card_project
+## MARKET ENTRY ANALYSIS - CREDIT CARD
+Problem statement – To conduct a market entry analysis for a new credit card after thorough analysis of customer’s transcations data
+
+1.	Employed advanced statistical techniques like Z-score and IQR to meticulously analyze customer transactions and credit profiles, leading to the identification of a precise target group for a strategic credit card launch. Utilized various data visualization methods, including histograms, boxplots, pie, and bar charts, to refine segmentation and optimize market targeting.
+2.	Orchestrated a focused A/B testing initiative involving 100 customers each in test and control groups, specifically targeting the demographic of 18-25-year-olds, representing 20% of the overall customer base. Achieved a remarkable 40% conversion rate, validating the effectiveness of the newly introduced credit card. Further analysis using a two-sample Z-test with a 5% significance level revealed a notable discrepancy in average transaction amounts between the control and test groups, indicating a tangible impact on consumer behavior.
+3.	Led a comprehensive post-campaign assessment to evaluate the influence of the new credit card on transaction dynamics. The analysis highlighted the significant impact of the credit card on consumer spending behavior, indicating its potential to drive substantial changes in transaction patterns and foster organizational growth.
